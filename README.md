@@ -1,2 +1,2 @@
 # advent-of-code
-Advent of Code 2021 (very shitty)
+MyseIf's files for Advent of Code, written in (mostly (maybe)) Python
